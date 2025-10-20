@@ -17,6 +17,9 @@ def main():
     
     project_name = input ("Please enter the project name: ")
     print(project_name)
+
+    # Random comment to test Codacy
+    printf("\Testing project {project_name} in directory {base_dir}")
     
     print("Testing branch")
     
